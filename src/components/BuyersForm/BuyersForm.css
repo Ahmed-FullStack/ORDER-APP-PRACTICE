@@ -1,0 +1,9 @@
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 1 1 5rem;
+}
+
+.flex > input {
+	width: min(15rem, 90%);
+}

@@ -1,0 +1,12 @@
+.primary-btn {
+	border-radius: 55rem;
+	color: #fff;
+	background-color: hsl(0 0% 22%);
+}
+
+.primary-btn:hover {
+	background-color: hsl(0 0% 15%);
+}
+.primary-btn:active {
+	background-color: hsl(0 0% 12%);
+}

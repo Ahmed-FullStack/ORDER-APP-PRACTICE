@@ -1,0 +1,6 @@
+:where(.card) {
+	border-radius: 0.85rem;
+	padding: 0.3rem 1rem;
+	width: min(500px, 90%);
+	margin-inline: auto;
+}
